@@ -1,2 +1,8 @@
-# openagent
-Create, Battle, and Trade Intelligent AI Agents
+# Clone the repository
+git clone https://github.com/openagentoa/openagent.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev

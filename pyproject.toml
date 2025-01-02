@@ -1,0 +1,9 @@
+[project]
+name = "repl-nix-aiagentcrafters"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "pg>=0.1",
+    "postgres>=4.0",
+]
