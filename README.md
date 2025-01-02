@@ -106,8 +106,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Website**: [openagent.ai](https://openagent.ai)
-- **Twitter**: [@OpenAgentAI](https://twitter.com/OpenAgentAI)
+- **Website**: [openagentoa.com](https://openagentoa.com)
+- **Twitter**: [@OpenAgentOA](https://x.com/OpenAgentOA)
 - **Discord**: OpenAgent Community
 
 ## 🙏 Acknowledgments
